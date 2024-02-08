@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wi33ard
 - 👀 I’m interested in React, Typescript, Blockchain
-- 🌱 I’m currently learning Effector
+- 🌱 I’m currently learning Antd
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
